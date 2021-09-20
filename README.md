@@ -46,25 +46,19 @@
   7. 응답받은 코드  
   8. 토큰 발급 요청 주소(POST방식) - http body에 데이터를 전달 (4가지 데이터)
 
----
 # 주요 화면
 ## 메인페이지
 <img src="https://user-images.githubusercontent.com/52141636/133950912-a9b50737-cac7-4077-bcd4-6d0758988d2f.jpg">  
-
 ## 회원가입
-카카오 회원가입일 경우 개인정보 동의 페이지로 넘어간다.
+카카오 회원가입일 경우 개인정보 동의 페이지로 넘어간다.  
 <img src="https://user-images.githubusercontent.com/52141636/133950955-324b57f4-9b77-4953-ab4a-9746d0ec5b76.jpg">  
-
 ## 로그인
 <img src="https://user-images.githubusercontent.com/52141636/133950961-45f31d04-6b38-49ed-8b05-70dd587d5dde.jpg">  
-
 ## 회원정보 수정
-회원정보를 수정한 뒤 강제로 새로운 세션을 넣어 업데이트된 정보를 갱신한다.
+회원정보를 수정한 뒤 강제로 새로운 세션을 넣어 업데이트된 정보를 갱신한다.  
 <img src="https://user-images.githubusercontent.com/52141636/133950972-8c783d02-de7d-4ce4-b822-8dfec9b79889.jpg">  
-
 ## 게시글 조회
 <img src="https://user-images.githubusercontent.com/52141636/133950968-22174db9-c5b5-48d4-8080-d7904cf544a0.jpg">  
-
 ## 게시글 쓰기 및 수정
-내가 쓴 게시글이 아닐 경우 수정과 삭제 버튼이 나타나지 않는다.
+내가 쓴 게시글이 아닐 경우 수정과 삭제 버튼이 나타나지 않는다.  
 <img src="https://user-images.githubusercontent.com/52141636/133950966-cc372d49-252d-4c93-b8f9-11a5587eb257.jpg">
